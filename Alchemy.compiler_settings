@@ -1,0 +1,42 @@
+{
+  "ModlistIsNSFW": false,
+  "Source": "B:\\Alchemy",
+  "Downloads": "B:\\Alchemy\\downloads",
+  "Game": "SkyrimSpecialEdition",
+  "OutputFile": "B:\\Alchemy\\Alchemy.wabbajack",
+  "ModListImage": "B:\\Alchemy\\stockImage.jpg",
+  "UseGamePaths": true,
+  "UseTextureRecompression": false,
+  "OtherGames": [],
+  "MaxVerificationTime": "00:01:00",
+  "ModListName": "Alchemy",
+  "ModListAuthor": "BLAZZINGFURY",
+  "ModListDescription": "Init Commit.",
+  "ModListReadme": "https://github.com/BLAZZINGFURY/Skyrim-Alchemy",
+  "ModListWebsite": "https://github.com/BLAZZINGFURY/Skyrim-Alchemy",
+  "ModListCommunity": "",
+  "ModlistVersion": "0.0.1.0",
+  "PublishUpdate": false,
+  "MachineUrl": "",
+  "Profile": "Default",
+  "AdditionalProfiles": [],
+  "NoMatchInclude": [
+    "mods\\Alchemy - MCM \u0026 INI Settings",
+    "mods\\Alchemy - XEdit Output"
+  ],
+  "Include": [
+    "stockImage.jpg"
+  ],
+  "Ignore": [
+    "tools\\Bethini Pie",
+    "tools\\SSEEdit 4.1.5f",
+    "tools\\Synthesis",
+    "Alchemy.wabbajack",
+    "Alchemy.compiler_settings",
+    "Alchemy.wabbajack.meta.json",
+    "profiles\\Default\\saves"
+  ],
+  "AlwaysEnabled": [],
+  "Version": "0.1.0",
+  "Description": null
+}
